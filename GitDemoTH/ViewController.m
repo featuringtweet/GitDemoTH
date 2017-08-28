@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    self.testLabel.text = @"Hello, World!";
+    self.testLabel.text = @"Hua";
 }
 
 
